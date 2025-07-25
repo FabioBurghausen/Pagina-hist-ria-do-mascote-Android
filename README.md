@@ -3,7 +3,7 @@
 Este é um projeto simples desenvolvido com **HTML5** e **CSS3**, criado com o objetivo de praticar a construção de páginas web estáticas. A página apresenta, de forma visual e organizada, a história do famoso mascote do sistema operacional Android.
 
 🔗 Acesse o site publicado:  
-👉 [fabioburghausen.github.io/Pagina-hist-ria-do-mascote-Android](https://fabioburghausen.github.io/Pagina-hist-ria-do-mascote-Android/)
+👉 https://fabioburghausen.github.io/projeto-android/
 
 ---
 
